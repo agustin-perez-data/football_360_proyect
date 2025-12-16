@@ -1,0 +1,381 @@
+match_id,date,season,home_team,away_team,home_goals,away_goals,result
+20110813_Blackburn_Wolves,2011-08-13,2011-2012,Blackburn,Wolves,1,2,A
+20110813_Fulham_Aston_Villa,2011-08-13,2011-2012,Fulham,Aston Villa,0,0,D
+20110813_Liverpool_Sunderland,2011-08-13,2011-2012,Liverpool,Sunderland,1,1,D
+20110813_Newcastle_Arsenal,2011-08-13,2011-2012,Newcastle,Arsenal,0,0,D
+20110813_QPR_Bolton,2011-08-13,2011-2012,QPR,Bolton,0,4,A
+20110813_Wigan_Norwich,2011-08-13,2011-2012,Wigan,Norwich,1,1,D
+20110814_Stoke_Chelsea,2011-08-14,2011-2012,Stoke,Chelsea,0,0,D
+20110814_West_Brom_Man_United,2011-08-14,2011-2012,West Brom,Man United,1,2,A
+20110815_Man_City_Swansea,2011-08-15,2011-2012,Man City,Swansea,4,0,H
+20110820_Arsenal_Liverpool,2011-08-20,2011-2012,Arsenal,Liverpool,0,2,A
+20110820_Aston_Villa_Blackburn,2011-08-20,2011-2012,Aston Villa,Blackburn,3,1,H
+20110820_Chelsea_West_Brom,2011-08-20,2011-2012,Chelsea,West Brom,2,1,H
+20110820_Everton_QPR,2011-08-20,2011-2012,Everton,QPR,0,1,A
+20110820_Sunderland_Newcastle,2011-08-20,2011-2012,Sunderland,Newcastle,0,1,A
+20110820_Swansea_Wigan,2011-08-20,2011-2012,Swansea,Wigan,0,0,D
+20110821_Bolton_Man_City,2011-08-21,2011-2012,Bolton,Man City,2,3,A
+20110821_Norwich_Stoke,2011-08-21,2011-2012,Norwich,Stoke,1,1,D
+20110821_Wolves_Fulham,2011-08-21,2011-2012,Wolves,Fulham,2,0,H
+20110822_Man_United_Tottenham,2011-08-22,2011-2012,Man United,Tottenham,3,0,H
+20110827_Aston_Villa_Wolves,2011-08-27,2011-2012,Aston Villa,Wolves,0,0,D
+20110827_Blackburn_Everton,2011-08-27,2011-2012,Blackburn,Everton,0,1,A
+20110827_Chelsea_Norwich,2011-08-27,2011-2012,Chelsea,Norwich,3,1,H
+20110827_Liverpool_Bolton,2011-08-27,2011-2012,Liverpool,Bolton,3,1,H
+20110827_Swansea_Sunderland,2011-08-27,2011-2012,Swansea,Sunderland,0,0,D
+20110827_Wigan_QPR,2011-08-27,2011-2012,Wigan,QPR,2,0,H
+20110828_Man_United_Arsenal,2011-08-28,2011-2012,Man United,Arsenal,8,2,H
+20110828_Newcastle_Fulham,2011-08-28,2011-2012,Newcastle,Fulham,2,1,H
+20110828_Tottenham_Man_City,2011-08-28,2011-2012,Tottenham,Man City,1,5,A
+20110828_West_Brom_Stoke,2011-08-28,2011-2012,West Brom,Stoke,0,1,A
+20110910_Arsenal_Swansea,2011-09-10,2011-2012,Arsenal,Swansea,1,0,H
+20110910_Bolton_Man_United,2011-09-10,2011-2012,Bolton,Man United,0,5,A
+20110910_Everton_Aston_Villa,2011-09-10,2011-2012,Everton,Aston Villa,2,2,D
+20110910_Man_City_Wigan,2011-09-10,2011-2012,Man City,Wigan,3,0,H
+20110910_Stoke_Liverpool,2011-09-10,2011-2012,Stoke,Liverpool,1,0,H
+20110910_Sunderland_Chelsea,2011-09-10,2011-2012,Sunderland,Chelsea,1,2,A
+20110910_Wolves_Tottenham,2011-09-10,2011-2012,Wolves,Tottenham,0,2,A
+20110911_Fulham_Blackburn,2011-09-11,2011-2012,Fulham,Blackburn,1,1,D
+20110911_Norwich_West_Brom,2011-09-11,2011-2012,Norwich,West Brom,0,1,A
+20110912_QPR_Newcastle,2011-09-12,2011-2012,QPR,Newcastle,0,0,D
+20110917_Aston_Villa_Newcastle,2011-09-17,2011-2012,Aston Villa,Newcastle,1,1,D
+20110917_Blackburn_Arsenal,2011-09-17,2011-2012,Blackburn,Arsenal,4,3,H
+20110917_Bolton_Norwich,2011-09-17,2011-2012,Bolton,Norwich,1,2,A
+20110917_Everton_Wigan,2011-09-17,2011-2012,Everton,Wigan,3,1,H
+20110917_Swansea_West_Brom,2011-09-17,2011-2012,Swansea,West Brom,3,0,H
+20110917_Wolves_QPR,2011-09-17,2011-2012,Wolves,QPR,0,3,A
+20110918_Fulham_Man_City,2011-09-18,2011-2012,Fulham,Man City,2,2,D
+20110918_Man_United_Chelsea,2011-09-18,2011-2012,Man United,Chelsea,3,1,H
+20110918_Sunderland_Stoke,2011-09-18,2011-2012,Sunderland,Stoke,4,0,H
+20110918_Tottenham_Liverpool,2011-09-18,2011-2012,Tottenham,Liverpool,4,0,H
+20110924_Arsenal_Bolton,2011-09-24,2011-2012,Arsenal,Bolton,3,0,H
+20110924_Chelsea_Swansea,2011-09-24,2011-2012,Chelsea,Swansea,4,1,H
+20110924_Liverpool_Wolves,2011-09-24,2011-2012,Liverpool,Wolves,2,1,H
+20110924_Man_City_Everton,2011-09-24,2011-2012,Man City,Everton,2,0,H
+20110924_Newcastle_Blackburn,2011-09-24,2011-2012,Newcastle,Blackburn,3,1,H
+20110924_Stoke_Man_United,2011-09-24,2011-2012,Stoke,Man United,1,1,D
+20110924_West_Brom_Fulham,2011-09-24,2011-2012,West Brom,Fulham,0,0,D
+20110924_Wigan_Tottenham,2011-09-24,2011-2012,Wigan,Tottenham,1,2,A
+20110925_QPR_Aston_Villa,2011-09-25,2011-2012,QPR,Aston Villa,1,1,D
+20110926_Norwich_Sunderland,2011-09-26,2011-2012,Norwich,Sunderland,2,1,H
+20111001_Aston_Villa_Wigan,2011-10-01,2011-2012,Aston Villa,Wigan,2,0,H
+20111001_Blackburn_Man_City,2011-10-01,2011-2012,Blackburn,Man City,0,4,A
+20111001_Everton_Liverpool,2011-10-01,2011-2012,Everton,Liverpool,0,2,A
+20111001_Man_United_Norwich,2011-10-01,2011-2012,Man United,Norwich,2,0,H
+20111001_Sunderland_West_Brom,2011-10-01,2011-2012,Sunderland,West Brom,2,2,D
+20111001_Wolves_Newcastle,2011-10-01,2011-2012,Wolves,Newcastle,1,2,A
+20111002_Bolton_Chelsea,2011-10-02,2011-2012,Bolton,Chelsea,1,5,A
+20111002_Fulham_QPR,2011-10-02,2011-2012,Fulham,QPR,6,0,H
+20111002_Swansea_Stoke,2011-10-02,2011-2012,Swansea,Stoke,2,0,H
+20111002_Tottenham_Arsenal,2011-10-02,2011-2012,Tottenham,Arsenal,2,1,H
+20111015_Chelsea_Everton,2011-10-15,2011-2012,Chelsea,Everton,3,1,H
+20111015_Liverpool_Man_United,2011-10-15,2011-2012,Liverpool,Man United,1,1,D
+20111015_Man_City_Aston_Villa,2011-10-15,2011-2012,Man City,Aston Villa,4,1,H
+20111015_Norwich_Swansea,2011-10-15,2011-2012,Norwich,Swansea,3,1,H
+20111015_QPR_Blackburn,2011-10-15,2011-2012,QPR,Blackburn,1,1,D
+20111015_Stoke_Fulham,2011-10-15,2011-2012,Stoke,Fulham,2,0,H
+20111015_Wigan_Bolton,2011-10-15,2011-2012,Wigan,Bolton,1,3,A
+20111016_Arsenal_Sunderland,2011-10-16,2011-2012,Arsenal,Sunderland,2,1,H
+20111016_Newcastle_Tottenham,2011-10-16,2011-2012,Newcastle,Tottenham,2,2,D
+20111016_West_Brom_Wolves,2011-10-16,2011-2012,West Brom,Wolves,2,0,H
+20111022_Aston_Villa_West_Brom,2011-10-22,2011-2012,Aston Villa,West Brom,1,2,A
+20111022_Bolton_Sunderland,2011-10-22,2011-2012,Bolton,Sunderland,0,2,A
+20111022_Liverpool_Norwich,2011-10-22,2011-2012,Liverpool,Norwich,1,1,D
+20111022_Newcastle_Wigan,2011-10-22,2011-2012,Newcastle,Wigan,1,0,H
+20111022_Wolves_Swansea,2011-10-22,2011-2012,Wolves,Swansea,2,2,D
+20111023_Arsenal_Stoke,2011-10-23,2011-2012,Arsenal,Stoke,3,1,H
+20111023_Blackburn_Tottenham,2011-10-23,2011-2012,Blackburn,Tottenham,1,2,A
+20111023_Fulham_Everton,2011-10-23,2011-2012,Fulham,Everton,1,3,A
+20111023_Man_United_Man_City,2011-10-23,2011-2012,Man United,Man City,1,6,A
+20111023_QPR_Chelsea,2011-10-23,2011-2012,QPR,Chelsea,1,0,H
+20111029_Chelsea_Arsenal,2011-10-29,2011-2012,Chelsea,Arsenal,3,5,A
+20111029_Everton_Man_United,2011-10-29,2011-2012,Everton,Man United,0,1,A
+20111029_Man_City_Wolves,2011-10-29,2011-2012,Man City,Wolves,3,1,H
+20111029_Norwich_Blackburn,2011-10-29,2011-2012,Norwich,Blackburn,3,3,D
+20111029_Sunderland_Aston_Villa,2011-10-29,2011-2012,Sunderland,Aston Villa,2,2,D
+20111029_Swansea_Bolton,2011-10-29,2011-2012,Swansea,Bolton,3,1,H
+20111029_West_Brom_Liverpool,2011-10-29,2011-2012,West Brom,Liverpool,0,2,A
+20111029_Wigan_Fulham,2011-10-29,2011-2012,Wigan,Fulham,0,2,A
+20111030_Tottenham_QPR,2011-10-30,2011-2012,Tottenham,QPR,3,1,H
+20111031_Stoke_Newcastle,2011-10-31,2011-2012,Stoke,Newcastle,1,3,A
+20111105_Arsenal_West_Brom,2011-11-05,2011-2012,Arsenal,West Brom,3,0,H
+20111105_Aston_Villa_Norwich,2011-11-05,2011-2012,Aston Villa,Norwich,3,2,H
+20111105_Blackburn_Chelsea,2011-11-05,2011-2012,Blackburn,Chelsea,0,1,A
+20111105_Liverpool_Swansea,2011-11-05,2011-2012,Liverpool,Swansea,0,0,D
+20111105_Man_United_Sunderland,2011-11-05,2011-2012,Man United,Sunderland,1,0,H
+20111105_Newcastle_Everton,2011-11-05,2011-2012,Newcastle,Everton,2,1,H
+20111105_QPR_Man_City,2011-11-05,2011-2012,QPR,Man City,2,3,A
+20111106_Bolton_Stoke,2011-11-06,2011-2012,Bolton,Stoke,5,0,H
+20111106_Fulham_Tottenham,2011-11-06,2011-2012,Fulham,Tottenham,1,3,A
+20111106_Wolves_Wigan,2011-11-06,2011-2012,Wolves,Wigan,3,1,H
+20111119_Everton_Wolves,2011-11-19,2011-2012,Everton,Wolves,2,1,H
+20111119_Man_City_Newcastle,2011-11-19,2011-2012,Man City,Newcastle,3,1,H
+20111119_Norwich_Arsenal,2011-11-19,2011-2012,Norwich,Arsenal,1,2,A
+20111119_Stoke_QPR,2011-11-19,2011-2012,Stoke,QPR,2,3,A
+20111119_Sunderland_Fulham,2011-11-19,2011-2012,Sunderland,Fulham,0,0,D
+20111119_Swansea_Man_United,2011-11-19,2011-2012,Swansea,Man United,0,1,A
+20111119_West_Brom_Bolton,2011-11-19,2011-2012,West Brom,Bolton,2,1,H
+20111119_Wigan_Blackburn,2011-11-19,2011-2012,Wigan,Blackburn,3,3,D
+20111120_Chelsea_Liverpool,2011-11-20,2011-2012,Chelsea,Liverpool,1,2,A
+20111121_Tottenham_Aston_Villa,2011-11-21,2011-2012,Tottenham,Aston Villa,2,0,H
+20111126_Arsenal_Fulham,2011-11-26,2011-2012,Arsenal,Fulham,1,1,D
+20111126_Bolton_Everton,2011-11-26,2011-2012,Bolton,Everton,0,2,A
+20111126_Chelsea_Wolves,2011-11-26,2011-2012,Chelsea,Wolves,3,0,H
+20111126_Man_United_Newcastle,2011-11-26,2011-2012,Man United,Newcastle,1,1,D
+20111126_Norwich_QPR,2011-11-26,2011-2012,Norwich,QPR,2,1,H
+20111126_Stoke_Blackburn,2011-11-26,2011-2012,Stoke,Blackburn,3,1,H
+20111126_Sunderland_Wigan,2011-11-26,2011-2012,Sunderland,Wigan,1,2,A
+20111126_West_Brom_Tottenham,2011-11-26,2011-2012,West Brom,Tottenham,1,3,A
+20111127_Liverpool_Man_City,2011-11-27,2011-2012,Liverpool,Man City,1,1,D
+20111127_Swansea_Aston_Villa,2011-11-27,2011-2012,Swansea,Aston Villa,0,0,D
+20111203_Aston_Villa_Man_United,2011-12-03,2011-2012,Aston Villa,Man United,0,1,A
+20111203_Blackburn_Swansea,2011-12-03,2011-2012,Blackburn,Swansea,4,2,H
+20111203_Man_City_Norwich,2011-12-03,2011-2012,Man City,Norwich,5,1,H
+20111203_Newcastle_Chelsea,2011-12-03,2011-2012,Newcastle,Chelsea,0,3,A
+20111203_QPR_West_Brom,2011-12-03,2011-2012,QPR,West Brom,1,1,D
+20111203_Tottenham_Bolton,2011-12-03,2011-2012,Tottenham,Bolton,3,0,H
+20111203_Wigan_Arsenal,2011-12-03,2011-2012,Wigan,Arsenal,0,4,A
+20111204_Everton_Stoke,2011-12-04,2011-2012,Everton,Stoke,0,1,A
+20111204_Wolves_Sunderland,2011-12-04,2011-2012,Wolves,Sunderland,2,1,H
+20111205_Fulham_Liverpool,2011-12-05,2011-2012,Fulham,Liverpool,1,0,H
+20111210_Arsenal_Everton,2011-12-10,2011-2012,Arsenal,Everton,1,0,H
+20111210_Bolton_Aston_Villa,2011-12-10,2011-2012,Bolton,Aston Villa,1,2,A
+20111210_Liverpool_QPR,2011-12-10,2011-2012,Liverpool,QPR,1,0,H
+20111210_Man_United_Wolves,2011-12-10,2011-2012,Man United,Wolves,4,1,H
+20111210_Norwich_Newcastle,2011-12-10,2011-2012,Norwich,Newcastle,4,2,H
+20111210_Swansea_Fulham,2011-12-10,2011-2012,Swansea,Fulham,2,0,H
+20111210_West_Brom_Wigan,2011-12-10,2011-2012,West Brom,Wigan,1,2,A
+20111211_Stoke_Tottenham,2011-12-11,2011-2012,Stoke,Tottenham,2,1,H
+20111211_Sunderland_Blackburn,2011-12-11,2011-2012,Sunderland,Blackburn,2,1,H
+20111212_Chelsea_Man_City,2011-12-12,2011-2012,Chelsea,Man City,2,1,H
+20111217_Blackburn_West_Brom,2011-12-17,2011-2012,Blackburn,West Brom,1,2,A
+20111217_Everton_Norwich,2011-12-17,2011-2012,Everton,Norwich,1,1,D
+20111217_Fulham_Bolton,2011-12-17,2011-2012,Fulham,Bolton,2,0,H
+20111217_Newcastle_Swansea,2011-12-17,2011-2012,Newcastle,Swansea,0,0,D
+20111217_Wigan_Chelsea,2011-12-17,2011-2012,Wigan,Chelsea,1,1,D
+20111217_Wolves_Stoke,2011-12-17,2011-2012,Wolves,Stoke,1,2,A
+20111218_Aston_Villa_Liverpool,2011-12-18,2011-2012,Aston Villa,Liverpool,0,2,A
+20111218_Man_City_Arsenal,2011-12-18,2011-2012,Man City,Arsenal,1,0,H
+20111218_QPR_Man_United,2011-12-18,2011-2012,QPR,Man United,0,2,A
+20111218_Tottenham_Sunderland,2011-12-18,2011-2012,Tottenham,Sunderland,1,0,H
+20111220_Blackburn_Bolton,2011-12-20,2011-2012,Blackburn,Bolton,1,2,A
+20111220_Wolves_Norwich,2011-12-20,2011-2012,Wolves,Norwich,2,2,D
+20111221_Aston_Villa_Arsenal,2011-12-21,2011-2012,Aston Villa,Arsenal,1,2,A
+20111221_Everton_Swansea,2011-12-21,2011-2012,Everton,Swansea,1,0,H
+20111221_Fulham_Man_United,2011-12-21,2011-2012,Fulham,Man United,0,5,A
+20111221_Man_City_Stoke,2011-12-21,2011-2012,Man City,Stoke,3,0,H
+20111221_Newcastle_West_Brom,2011-12-21,2011-2012,Newcastle,West Brom,2,3,A
+20111221_QPR_Sunderland,2011-12-21,2011-2012,QPR,Sunderland,2,3,A
+20111221_Wigan_Liverpool,2011-12-21,2011-2012,Wigan,Liverpool,0,0,D
+20111222_Tottenham_Chelsea,2011-12-22,2011-2012,Tottenham,Chelsea,1,1,D
+20111226_Bolton_Newcastle,2011-12-26,2011-2012,Bolton,Newcastle,0,2,A
+20111226_Chelsea_Fulham,2011-12-26,2011-2012,Chelsea,Fulham,1,1,D
+20111226_Liverpool_Blackburn,2011-12-26,2011-2012,Liverpool,Blackburn,1,1,D
+20111226_Man_United_Wigan,2011-12-26,2011-2012,Man United,Wigan,5,0,H
+20111226_Stoke_Aston_Villa,2011-12-26,2011-2012,Stoke,Aston Villa,0,0,D
+20111226_Sunderland_Everton,2011-12-26,2011-2012,Sunderland,Everton,1,1,D
+20111226_West_Brom_Man_City,2011-12-26,2011-2012,West Brom,Man City,0,0,D
+20111227_Arsenal_Wolves,2011-12-27,2011-2012,Arsenal,Wolves,1,1,D
+20111227_Norwich_Tottenham,2011-12-27,2011-2012,Norwich,Tottenham,0,2,A
+20111227_Swansea_QPR,2011-12-27,2011-2012,Swansea,QPR,1,1,D
+20111230_Liverpool_Newcastle,2011-12-30,2011-2012,Liverpool,Newcastle,3,1,H
+20111231_Arsenal_QPR,2011-12-31,2011-2012,Arsenal,QPR,1,0,H
+20111231_Bolton_Wolves,2011-12-31,2011-2012,Bolton,Wolves,1,1,D
+20111231_Chelsea_Aston_Villa,2011-12-31,2011-2012,Chelsea,Aston Villa,1,3,A
+20111231_Man_United_Blackburn,2011-12-31,2011-2012,Man United,Blackburn,2,3,A
+20111231_Norwich_Fulham,2011-12-31,2011-2012,Norwich,Fulham,1,1,D
+20111231_Stoke_Wigan,2011-12-31,2011-2012,Stoke,Wigan,2,2,D
+20111231_Swansea_Tottenham,2011-12-31,2011-2012,Swansea,Tottenham,1,1,D
+20120101_Sunderland_Man_City,2012-01-01,2011-2012,Sunderland,Man City,1,0,H
+20120101_West_Brom_Everton,2012-01-01,2011-2012,West Brom,Everton,0,1,A
+20120102_Aston_Villa_Swansea,2012-01-02,2011-2012,Aston Villa,Swansea,0,2,A
+20120102_Blackburn_Stoke,2012-01-02,2011-2012,Blackburn,Stoke,1,2,A
+20120102_Fulham_Arsenal,2012-01-02,2011-2012,Fulham,Arsenal,2,1,H
+20120102_QPR_Norwich,2012-01-02,2011-2012,QPR,Norwich,1,2,A
+20120102_Wolves_Chelsea,2012-01-02,2011-2012,Wolves,Chelsea,1,2,A
+20120103_Man_City_Liverpool,2012-01-03,2011-2012,Man City,Liverpool,3,0,H
+20120103_Tottenham_West_Brom,2012-01-03,2011-2012,Tottenham,West Brom,1,0,H
+20120103_Wigan_Sunderland,2012-01-03,2011-2012,Wigan,Sunderland,1,4,A
+20120104_Everton_Bolton,2012-01-04,2011-2012,Everton,Bolton,1,2,A
+20120104_Newcastle_Man_United,2012-01-04,2011-2012,Newcastle,Man United,3,0,H
+20120111_Tottenham_Everton,2012-01-11,2011-2012,Tottenham,Everton,2,0,H
+20120114_Aston_Villa_Everton,2012-01-14,2011-2012,Aston Villa,Everton,1,1,D
+20120114_Blackburn_Fulham,2012-01-14,2011-2012,Blackburn,Fulham,3,1,H
+20120114_Chelsea_Sunderland,2012-01-14,2011-2012,Chelsea,Sunderland,1,0,H
+20120114_Liverpool_Stoke,2012-01-14,2011-2012,Liverpool,Stoke,0,0,D
+20120114_Man_United_Bolton,2012-01-14,2011-2012,Man United,Bolton,3,0,H
+20120114_Tottenham_Wolves,2012-01-14,2011-2012,Tottenham,Wolves,1,1,D
+20120114_West_Brom_Norwich,2012-01-14,2011-2012,West Brom,Norwich,1,2,A
+20120115_Newcastle_QPR,2012-01-15,2011-2012,Newcastle,QPR,1,0,H
+20120115_Swansea_Arsenal,2012-01-15,2011-2012,Swansea,Arsenal,3,2,H
+20120116_Wigan_Man_City,2012-01-16,2011-2012,Wigan,Man City,0,1,A
+20120121_Bolton_Liverpool,2012-01-21,2011-2012,Bolton,Liverpool,3,1,H
+20120121_Everton_Blackburn,2012-01-21,2011-2012,Everton,Blackburn,1,1,D
+20120121_Fulham_Newcastle,2012-01-21,2011-2012,Fulham,Newcastle,5,2,H
+20120121_Norwich_Chelsea,2012-01-21,2011-2012,Norwich,Chelsea,0,0,D
+20120121_QPR_Wigan,2012-01-21,2011-2012,QPR,Wigan,3,1,H
+20120121_Stoke_West_Brom,2012-01-21,2011-2012,Stoke,West Brom,1,2,A
+20120121_Sunderland_Swansea,2012-01-21,2011-2012,Sunderland,Swansea,2,0,H
+20120121_Wolves_Aston_Villa,2012-01-21,2011-2012,Wolves,Aston Villa,2,3,A
+20120122_Arsenal_Man_United,2012-01-22,2011-2012,Arsenal,Man United,1,2,A
+20120122_Man_City_Tottenham,2012-01-22,2011-2012,Man City,Tottenham,3,2,H
+20120131_Everton_Man_City,2012-01-31,2011-2012,Everton,Man City,1,0,H
+20120131_Man_United_Stoke,2012-01-31,2011-2012,Man United,Stoke,2,0,H
+20120131_Swansea_Chelsea,2012-01-31,2011-2012,Swansea,Chelsea,1,1,D
+20120131_Tottenham_Wigan,2012-01-31,2011-2012,Tottenham,Wigan,3,1,H
+20120131_Wolves_Liverpool,2012-01-31,2011-2012,Wolves,Liverpool,0,3,A
+20120201_Aston_Villa_QPR,2012-02-01,2011-2012,Aston Villa,QPR,2,2,D
+20120201_Blackburn_Newcastle,2012-02-01,2011-2012,Blackburn,Newcastle,0,2,A
+20120201_Bolton_Arsenal,2012-02-01,2011-2012,Bolton,Arsenal,0,0,D
+20120201_Fulham_West_Brom,2012-02-01,2011-2012,Fulham,West Brom,1,1,D
+20120201_Sunderland_Norwich,2012-02-01,2011-2012,Sunderland,Norwich,3,0,H
+20120204_Arsenal_Blackburn,2012-02-04,2011-2012,Arsenal,Blackburn,7,1,H
+20120204_Man_City_Fulham,2012-02-04,2011-2012,Man City,Fulham,3,0,H
+20120204_Norwich_Bolton,2012-02-04,2011-2012,Norwich,Bolton,2,0,H
+20120204_QPR_Wolves,2012-02-04,2011-2012,QPR,Wolves,1,2,A
+20120204_Stoke_Sunderland,2012-02-04,2011-2012,Stoke,Sunderland,0,1,A
+20120204_West_Brom_Swansea,2012-02-04,2011-2012,West Brom,Swansea,1,2,A
+20120204_Wigan_Everton,2012-02-04,2011-2012,Wigan,Everton,1,1,D
+20120205_Chelsea_Man_United,2012-02-05,2011-2012,Chelsea,Man United,3,3,D
+20120205_Newcastle_Aston_Villa,2012-02-05,2011-2012,Newcastle,Aston Villa,2,1,H
+20120206_Liverpool_Tottenham,2012-02-06,2011-2012,Liverpool,Tottenham,0,0,D
+20120211_Blackburn_QPR,2012-02-11,2011-2012,Blackburn,QPR,3,2,H
+20120211_Bolton_Wigan,2012-02-11,2011-2012,Bolton,Wigan,1,2,A
+20120211_Everton_Chelsea,2012-02-11,2011-2012,Everton,Chelsea,2,0,H
+20120211_Fulham_Stoke,2012-02-11,2011-2012,Fulham,Stoke,2,1,H
+20120211_Man_United_Liverpool,2012-02-11,2011-2012,Man United,Liverpool,2,1,H
+20120211_Sunderland_Arsenal,2012-02-11,2011-2012,Sunderland,Arsenal,1,2,A
+20120211_Swansea_Norwich,2012-02-11,2011-2012,Swansea,Norwich,2,3,A
+20120211_Tottenham_Newcastle,2012-02-11,2011-2012,Tottenham,Newcastle,5,0,H
+20120212_Aston_Villa_Man_City,2012-02-12,2011-2012,Aston Villa,Man City,0,1,A
+20120212_Wolves_West_Brom,2012-02-12,2011-2012,Wolves,West Brom,1,5,A
+20120225_Chelsea_Bolton,2012-02-25,2011-2012,Chelsea,Bolton,3,0,H
+20120225_Man_City_Blackburn,2012-02-25,2011-2012,Man City,Blackburn,3,0,H
+20120225_Newcastle_Wolves,2012-02-25,2011-2012,Newcastle,Wolves,2,2,D
+20120225_QPR_Fulham,2012-02-25,2011-2012,QPR,Fulham,0,1,A
+20120225_West_Brom_Sunderland,2012-02-25,2011-2012,West Brom,Sunderland,4,0,H
+20120225_Wigan_Aston_Villa,2012-02-25,2011-2012,Wigan,Aston Villa,0,0,D
+20120226_Arsenal_Tottenham,2012-02-26,2011-2012,Arsenal,Tottenham,5,2,H
+20120226_Norwich_Man_United,2012-02-26,2011-2012,Norwich,Man United,1,2,A
+20120226_Stoke_Swansea,2012-02-26,2011-2012,Stoke,Swansea,2,0,H
+20120303_Blackburn_Aston_Villa,2012-03-03,2011-2012,Blackburn,Aston Villa,1,1,D
+20120303_Liverpool_Arsenal,2012-03-03,2011-2012,Liverpool,Arsenal,1,2,A
+20120303_Man_City_Bolton,2012-03-03,2011-2012,Man City,Bolton,2,0,H
+20120303_QPR_Everton,2012-03-03,2011-2012,QPR,Everton,1,1,D
+20120303_Stoke_Norwich,2012-03-03,2011-2012,Stoke,Norwich,1,0,H
+20120303_West_Brom_Chelsea,2012-03-03,2011-2012,West Brom,Chelsea,1,0,H
+20120303_Wigan_Swansea,2012-03-03,2011-2012,Wigan,Swansea,0,2,A
+20120304_Fulham_Wolves,2012-03-04,2011-2012,Fulham,Wolves,5,0,H
+20120304_Newcastle_Sunderland,2012-03-04,2011-2012,Newcastle,Sunderland,1,1,D
+20120304_Tottenham_Man_United,2012-03-04,2011-2012,Tottenham,Man United,1,3,A
+20120310_Aston_Villa_Fulham,2012-03-10,2011-2012,Aston Villa,Fulham,1,0,H
+20120310_Bolton_QPR,2012-03-10,2011-2012,Bolton,QPR,2,1,H
+20120310_Chelsea_Stoke,2012-03-10,2011-2012,Chelsea,Stoke,1,0,H
+20120310_Everton_Tottenham,2012-03-10,2011-2012,Everton,Tottenham,1,0,H
+20120310_Sunderland_Liverpool,2012-03-10,2011-2012,Sunderland,Liverpool,1,0,H
+20120310_Wolves_Blackburn,2012-03-10,2011-2012,Wolves,Blackburn,0,2,A
+20120311_Man_United_West_Brom,2012-03-11,2011-2012,Man United,West Brom,2,0,H
+20120311_Norwich_Wigan,2012-03-11,2011-2012,Norwich,Wigan,1,1,D
+20120311_Swansea_Man_City,2012-03-11,2011-2012,Swansea,Man City,1,0,H
+20120312_Arsenal_Newcastle,2012-03-12,2011-2012,Arsenal,Newcastle,2,1,H
+20120313_Liverpool_Everton,2012-03-13,2011-2012,Liverpool,Everton,3,0,H
+20120317_Fulham_Swansea,2012-03-17,2011-2012,Fulham,Swansea,0,3,A
+20120317_Wigan_West_Brom,2012-03-17,2011-2012,Wigan,West Brom,1,1,D
+20120318_Newcastle_Norwich,2012-03-18,2011-2012,Newcastle,Norwich,1,0,H
+20120318_Wolves_Man_United,2012-03-18,2011-2012,Wolves,Man United,0,5,A
+20120320_Blackburn_Sunderland,2012-03-20,2011-2012,Blackburn,Sunderland,2,0,H
+20120321_Everton_Arsenal,2012-03-21,2011-2012,Everton,Arsenal,0,1,A
+20120321_Man_City_Chelsea,2012-03-21,2011-2012,Man City,Chelsea,2,1,H
+20120321_QPR_Liverpool,2012-03-21,2011-2012,QPR,Liverpool,3,2,H
+20120321_Tottenham_Stoke,2012-03-21,2011-2012,Tottenham,Stoke,1,1,D
+20120324_Arsenal_Aston_Villa,2012-03-24,2011-2012,Arsenal,Aston Villa,3,0,H
+20120324_Bolton_Blackburn,2012-03-24,2011-2012,Bolton,Blackburn,2,1,H
+20120324_Chelsea_Tottenham,2012-03-24,2011-2012,Chelsea,Tottenham,0,0,D
+20120324_Liverpool_Wigan,2012-03-24,2011-2012,Liverpool,Wigan,1,2,A
+20120324_Norwich_Wolves,2012-03-24,2011-2012,Norwich,Wolves,2,1,H
+20120324_Stoke_Man_City,2012-03-24,2011-2012,Stoke,Man City,1,1,D
+20120324_Sunderland_QPR,2012-03-24,2011-2012,Sunderland,QPR,3,1,H
+20120324_Swansea_Everton,2012-03-24,2011-2012,Swansea,Everton,0,2,A
+20120325_West_Brom_Newcastle,2012-03-25,2011-2012,West Brom,Newcastle,1,3,A
+20120326_Man_United_Fulham,2012-03-26,2011-2012,Man United,Fulham,1,0,H
+20120331_Aston_Villa_Chelsea,2012-03-31,2011-2012,Aston Villa,Chelsea,2,4,A
+20120331_Everton_West_Brom,2012-03-31,2011-2012,Everton,West Brom,2,0,H
+20120331_Fulham_Norwich,2012-03-31,2011-2012,Fulham,Norwich,2,1,H
+20120331_Man_City_Sunderland,2012-03-31,2011-2012,Man City,Sunderland,3,3,D
+20120331_QPR_Arsenal,2012-03-31,2011-2012,QPR,Arsenal,2,1,H
+20120331_Wigan_Stoke,2012-03-31,2011-2012,Wigan,Stoke,2,0,H
+20120331_Wolves_Bolton,2012-03-31,2011-2012,Wolves,Bolton,2,3,A
+20120401_Newcastle_Liverpool,2012-04-01,2011-2012,Newcastle,Liverpool,2,0,H
+20120401_Tottenham_Swansea,2012-04-01,2011-2012,Tottenham,Swansea,3,1,H
+20120402_Blackburn_Man_United,2012-04-02,2011-2012,Blackburn,Man United,0,2,A
+20120406_Swansea_Newcastle,2012-04-06,2011-2012,Swansea,Newcastle,0,2,A
+20120407_Bolton_Fulham,2012-04-07,2011-2012,Bolton,Fulham,0,3,A
+20120407_Chelsea_Wigan,2012-04-07,2011-2012,Chelsea,Wigan,2,1,H
+20120407_Liverpool_Aston_Villa,2012-04-07,2011-2012,Liverpool,Aston Villa,1,1,D
+20120407_Norwich_Everton,2012-04-07,2011-2012,Norwich,Everton,2,2,D
+20120407_Stoke_Wolves,2012-04-07,2011-2012,Stoke,Wolves,2,1,H
+20120407_Sunderland_Tottenham,2012-04-07,2011-2012,Sunderland,Tottenham,0,0,D
+20120407_West_Brom_Blackburn,2012-04-07,2011-2012,West Brom,Blackburn,3,0,H
+20120408_Arsenal_Man_City,2012-04-08,2011-2012,Arsenal,Man City,1,0,H
+20120408_Man_United_QPR,2012-04-08,2011-2012,Man United,QPR,2,0,H
+20120409_Aston_Villa_Stoke,2012-04-09,2011-2012,Aston Villa,Stoke,1,1,D
+20120409_Everton_Sunderland,2012-04-09,2011-2012,Everton,Sunderland,4,0,H
+20120409_Fulham_Chelsea,2012-04-09,2011-2012,Fulham,Chelsea,1,1,D
+20120409_Newcastle_Bolton,2012-04-09,2011-2012,Newcastle,Bolton,2,0,H
+20120409_Tottenham_Norwich,2012-04-09,2011-2012,Tottenham,Norwich,1,2,A
+20120410_Blackburn_Liverpool,2012-04-10,2011-2012,Blackburn,Liverpool,2,3,A
+20120411_Man_City_West_Brom,2012-04-11,2011-2012,Man City,West Brom,4,0,H
+20120411_QPR_Swansea,2012-04-11,2011-2012,QPR,Swansea,3,0,H
+20120411_Wigan_Man_United,2012-04-11,2011-2012,Wigan,Man United,1,0,H
+20120411_Wolves_Arsenal,2012-04-11,2011-2012,Wolves,Arsenal,0,3,A
+20120414_Norwich_Man_City,2012-04-14,2011-2012,Norwich,Man City,1,6,A
+20120414_Sunderland_Wolves,2012-04-14,2011-2012,Sunderland,Wolves,0,0,D
+20120414_Swansea_Blackburn,2012-04-14,2011-2012,Swansea,Blackburn,3,0,H
+20120414_West_Brom_QPR,2012-04-14,2011-2012,West Brom,QPR,1,0,H
+20120415_Man_United_Aston_Villa,2012-04-15,2011-2012,Man United,Aston Villa,4,0,H
+20120416_Arsenal_Wigan,2012-04-16,2011-2012,Arsenal,Wigan,1,2,A
+20120421_Arsenal_Chelsea,2012-04-21,2011-2012,Arsenal,Chelsea,0,0,D
+20120421_Aston_Villa_Sunderland,2012-04-21,2011-2012,Aston Villa,Sunderland,0,0,D
+20120421_Blackburn_Norwich,2012-04-21,2011-2012,Blackburn,Norwich,2,0,H
+20120421_Bolton_Swansea,2012-04-21,2011-2012,Bolton,Swansea,1,1,D
+20120421_Fulham_Wigan,2012-04-21,2011-2012,Fulham,Wigan,2,1,H
+20120421_Newcastle_Stoke,2012-04-21,2011-2012,Newcastle,Stoke,3,0,H
+20120421_QPR_Tottenham,2012-04-21,2011-2012,QPR,Tottenham,1,0,H
+20120422_Liverpool_West_Brom,2012-04-22,2011-2012,Liverpool,West Brom,0,1,A
+20120422_Man_United_Everton,2012-04-22,2011-2012,Man United,Everton,4,4,D
+20120422_Wolves_Man_City,2012-04-22,2011-2012,Wolves,Man City,0,2,A
+20120424_Aston_Villa_Bolton,2012-04-24,2011-2012,Aston Villa,Bolton,1,2,A
+20120428_Everton_Fulham,2012-04-28,2011-2012,Everton,Fulham,4,0,H
+20120428_Norwich_Liverpool,2012-04-28,2011-2012,Norwich,Liverpool,0,3,A
+20120428_Stoke_Arsenal,2012-04-28,2011-2012,Stoke,Arsenal,1,1,D
+20120428_Sunderland_Bolton,2012-04-28,2011-2012,Sunderland,Bolton,2,2,D
+20120428_Swansea_Wolves,2012-04-28,2011-2012,Swansea,Wolves,4,4,D
+20120428_West_Brom_Aston_Villa,2012-04-28,2011-2012,West Brom,Aston Villa,0,0,D
+20120428_Wigan_Newcastle,2012-04-28,2011-2012,Wigan,Newcastle,4,0,H
+20120429_Chelsea_QPR,2012-04-29,2011-2012,Chelsea,QPR,6,1,H
+20120429_Tottenham_Blackburn,2012-04-29,2011-2012,Tottenham,Blackburn,2,0,H
+20120430_Man_City_Man_United,2012-04-30,2011-2012,Man City,Man United,1,0,H
+20120501_Liverpool_Fulham,2012-05-01,2011-2012,Liverpool,Fulham,0,1,A
+20120501_Stoke_Everton,2012-05-01,2011-2012,Stoke,Everton,1,1,D
+20120502_Bolton_Tottenham,2012-05-02,2011-2012,Bolton,Tottenham,1,4,A
+20120502_Chelsea_Newcastle,2012-05-02,2011-2012,Chelsea,Newcastle,0,2,A
+20120505_Arsenal_Norwich,2012-05-05,2011-2012,Arsenal,Norwich,3,3,D
+20120506_Aston_Villa_Tottenham,2012-05-06,2011-2012,Aston Villa,Tottenham,1,1,D
+20120506_Bolton_West_Brom,2012-05-06,2011-2012,Bolton,West Brom,2,2,D
+20120506_Fulham_Sunderland,2012-05-06,2011-2012,Fulham,Sunderland,2,1,H
+20120506_Man_United_Swansea,2012-05-06,2011-2012,Man United,Swansea,2,0,H
+20120506_Newcastle_Man_City,2012-05-06,2011-2012,Newcastle,Man City,0,2,A
+20120506_QPR_Stoke,2012-05-06,2011-2012,QPR,Stoke,1,0,H
+20120506_Wolves_Everton,2012-05-06,2011-2012,Wolves,Everton,0,0,D
+20120507_Blackburn_Wigan,2012-05-07,2011-2012,Blackburn,Wigan,0,1,A
+20120508_Liverpool_Chelsea,2012-05-08,2011-2012,Liverpool,Chelsea,4,1,H
+20120513_Chelsea_Blackburn,2012-05-13,2011-2012,Chelsea,Blackburn,2,1,H
+20120513_Everton_Newcastle,2012-05-13,2011-2012,Everton,Newcastle,3,1,H
+20120513_Man_City_QPR,2012-05-13,2011-2012,Man City,QPR,3,2,H
+20120513_Norwich_Aston_Villa,2012-05-13,2011-2012,Norwich,Aston Villa,2,0,H
+20120513_Stoke_Bolton,2012-05-13,2011-2012,Stoke,Bolton,2,2,D
+20120513_Sunderland_Man_United,2012-05-13,2011-2012,Sunderland,Man United,0,1,A
+20120513_Swansea_Liverpool,2012-05-13,2011-2012,Swansea,Liverpool,1,0,H
+20120513_Tottenham_Fulham,2012-05-13,2011-2012,Tottenham,Fulham,2,0,H
+20120513_West_Brom_Arsenal,2012-05-13,2011-2012,West Brom,Arsenal,2,3,A
+20120513_Wigan_Wolves,2012-05-13,2011-2012,Wigan,Wolves,3,2,H

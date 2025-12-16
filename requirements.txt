@@ -4,3 +4,5 @@ beautifulsoup4
 lxml
 sqlalchemy
 psycopg2-binary
+understatapi
+aiohttp
