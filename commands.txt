@@ -1,0 +1,29 @@
+ARRANCAR Y APAGAR DOCKER
+
+docker-compose up -d
+docker-compose stop
+
+EXTRACT
+docker-compose exec etl_runner python etl/extract/extract_fbref_matches.py
+docker-compose exec etl_runner python etl/extract/transform_matches.py
+
+TRANSFORM
+docker-compose exec etl_runner python etl/transform/transform_matches.py
+docker-compose exec etl_runner python etl/transform/transform_player_stats.py
+docker-compose exec etl_runner python etl/transform/transform_player_shooting.py
+
+LOAD
+# Dimensiones 
+docker-compose exec etl_runner python etl/load/load_dim_season.py 
+docker-compose exec etl_runner python etl/load/load_dim_team.py 
+docker-compose exec etl_runner python etl/load/load_dim_player.py 
+# Hechos 
+docker-compose exec etl_runner python etl/load/load_fact_matches.py 
+docker-compose exec etl_runner python etl/load/load_fact_player_season.py 
+docker-compose exec etl_runner python etl/load/load_fact_player_shooting_season.py
+
+
+PARA TIRAR sql
+docker-compose exec postgres psql -U football -d football
+
+docker-compose exec postgres psql -U football -d football -f sql/views_league_overview.sql

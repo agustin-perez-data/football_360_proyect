@@ -83,3 +83,5 @@ SELECT
 FROM points
 GROUP BY season, team
 ORDER BY season, points DESC;
+
+
