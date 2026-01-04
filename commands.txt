@@ -28,4 +28,4 @@ docker-compose exec postgres psql -U football -d football
 
 docker-compose exec postgres psql -U football -d football -f sql/views_league_overview.sql
 
-docker-compose exec postgres psql -U football -d football -f sql/views_team_performance.sql
+docker-compose exec postgres psql -U football -d football -f sql/views_player_performance.sql
