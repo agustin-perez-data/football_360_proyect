@@ -1,0 +1,3 @@
+football-360-epl-2011-12.duckdns.org {
+    reverse_proxy metabase:3000
+}
