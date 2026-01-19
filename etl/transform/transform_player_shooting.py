@@ -14,14 +14,12 @@ def main():
         encoding="utf-8"
     )
 
-    # 🔑 NORMALIZAR HEADERS (CLAVE)
     df.columns = (
         df.columns
         .str.strip()
         .str.replace("\ufeff", "", regex=False)
     )
 
-    # Renombrar columnas
     df = df.rename(columns={
         "Player": "player",
         "Squad": "team",
@@ -39,7 +37,6 @@ def main():
         "PKatt": "penalties_attempted"
     })
 
-    # 🔍 Validación temprana (para no volver a sufrir esto)
     if "shots_on_target_pct" not in df.columns:
         raise ValueError(f"Columnas detectadas: {df.columns.tolist()}")
 

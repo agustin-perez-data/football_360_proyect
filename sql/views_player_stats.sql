@@ -1,5 +1,4 @@
 -- 1. Vista Base (Datos generales)
--- Fuente: Imagen "Fact Player Season"
 CREATE OR REPLACE VIEW vw_player_base AS
 SELECT
     player,
@@ -18,10 +17,9 @@ SELECT
     yellow_cards,
     red_cards,
     goals_assists_non_penalty_per_90
-FROM fact_player_season; -- Nombre deducido de tu imagen 3
+FROM fact_player_season;
 
 -- 2. Vista de Disparos (Shooting)
--- Fuente: Imagen "Fact Player Shooting Season"
 CREATE OR REPLACE VIEW vw_player_shooting AS
 SELECT
     player,
@@ -39,10 +37,10 @@ SELECT
     avg_shot_distance,
     penalties_scored        AS shooting_penalties_scored,
     penalties_attempted     AS shooting_penalties_attempted
-FROM fact_player_shooting_season; -- Nombre deducido de tu imagen 5
+FROM fact_player_shooting_season;
 
 -- 3. Vista de Performance Completa (Join)
--- Esta une las dos anteriores
+
 CREATE OR REPLACE VIEW vw_player_performance AS
 SELECT
     b.player,
@@ -61,7 +59,7 @@ SELECT
     b.goals_assists,
     b.non_penalty_goals,
 
-    -- Métricas de Disparo (vienen de la vista shooting)
+    -- Métricas de Disparo (Shooting)
     s.shots,
     s.shots_on_target,
     s.shots_on_target_pct,
@@ -83,4 +81,4 @@ FROM vw_player_base b
 LEFT JOIN vw_player_shooting s
     ON b.player = s.player
     AND b.season = s.season
-    AND b.team = s.team; -- Agregué el team al join por seguridad
+    AND b.team = s.team; 

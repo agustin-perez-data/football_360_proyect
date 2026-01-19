@@ -16,7 +16,6 @@ def main():
     on_bad_lines="skip")
 
 
-    # Eliminar filas agregadas (League Average, etc.)
     df = df[~df["Player"].str.contains("League", na=False)]
 
     df = df.rename(columns={
