@@ -1,0 +1,11 @@
+# Environment files
+.env
+
+# Docker secrets (do not commit real secrets)
+secrets/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

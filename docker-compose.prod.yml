@@ -1,0 +1,26 @@
+version: "3.9"
+
+secrets:
+  postgres_password:
+    file: ./secrets/postgres_password.txt
+  metabase_db_pass:
+    file: ./secrets/metabase_db_pass.txt
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: football_db
+    environment:
+      # Use password from Docker secret file in prod
+      POSTGRES_PASSWORD_FILE: /run/secrets/postgres_password
+    secrets:
+      - postgres_password
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: football_metabase
+    # Fallback to env MB_DB_PASS when secret file not present
+    entrypoint: ["/bin/sh","-c"]
+    command: "[ -f /run/secrets/metabase_db_pass ] && export MB_DB_PASS=$(cat /run/secrets/metabase_db_pass); exec /app/run_metabase.sh"
+    secrets:
+      - metabase_db_pass
